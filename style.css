@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.home{
+    background: url(https://www.shutterstock.com/image-photo/business-team-meeting-600nw-107480708.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.nav-link:hover{
+    color: green  !important;
+}
